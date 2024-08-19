@@ -1,0 +1,2 @@
+Measure the model accuracy: 0.92
+Average cross-validation score: 0.93
