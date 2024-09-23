@@ -1,0 +1,15 @@
+#put path to your train and val folders here
+train: /Users/phongporter/Documents/GITHUB/COS40007/week_6/studio/archive/train
+val: /Users/phongporter/Documents/GITHUB/COS40007/week_6/studio/archive/valid
+# test: ../test/images
+
+#change the number of clases to 1 as we have only one class (pothole)
+nc: 1
+names: ['pothole']
+
+roboflow:
+  workspace: raj-dalsaniya
+  project: pothole-detection-isju5
+  version: 2
+  license: Private
+  url: https://app.roboflow.com/raj-dalsaniya/pothole-detection-isju5/2

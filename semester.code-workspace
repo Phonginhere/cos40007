@@ -1,19 +1,36 @@
 {
 	"folders": [
 		{
+			"name": "practicalWeek1",
 			"path": "week1/practicalWeek1"
 		},
 		{
+			"name": "week 2",
 			"path": "week 2"
 		},
 		{
+			"name": "testing",
 			"path": "testing"
 		},
 		{
+			"name": "week 3",
 			"path": "week 3"
 		},
 		{
+			"name": "week 4",
 			"path": "week 4"
+		},
+		{
+			"name": "week 5",
+			"path": "week 5"
+		},
+		{
+			"name": "Mask_RCNN",
+			"path": "../cos40007x/week 5/Mask_RCNN"
+		},
+		{
+			"name": "week_6",
+			"path": "week_6"
 		}
 	],
 	"settings": {}
